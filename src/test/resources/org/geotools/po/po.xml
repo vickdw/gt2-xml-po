@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<purchaseOrder xmlns="http://www.geotools.org/po" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.geotools.org/po po.xsd">
+	<shipTo>
+		<name>Bob Hoover</name>
+		<street>123 Main Street</street>
+		<city>Smallville</city>
+		<state>TN</state>
+		<zip>70898</zip>
+	</shipTo>
+	<billTo>
+		<name>Bob Hoover</name>
+		<street>123 Main Street</street>
+		<city>Smallville</city>
+		<state>TN</state>
+		<zip>70898</zip>
+	</billTo>
+	<comment>Ring the bell.</comment>
+	<items/>
+</purchaseOrder>
